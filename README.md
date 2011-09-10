@@ -20,3 +20,6 @@ simple(r) access to java property files
         Db(db[String]("host"), db[Int]("port"))
       }
     }
+
+
+Doug Tangren (softprops) 2011
