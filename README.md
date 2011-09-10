@@ -2,7 +2,7 @@
 
 simple(r) access to java property files
 
-> no everyone starts with a dsl'd config file
+> not everyone starts with a dsl'd config file
 
 ## features
 
